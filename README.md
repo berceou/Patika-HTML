@@ -46,7 +46,8 @@ Table exp:
 ```
 - ```<form>``` is used to create HTML form for user.  
 - ```<input>``` is used to take the input like submit, radio button from the user.  
-Radio button exp  
+
+Radio button exp:  
 ```
 <form method=post action="statements.."> 
 Select an option:<br> 
@@ -54,7 +55,8 @@ Select an option:<br>
 <input type="radio" name="option" checked> Option-2
 <input type="radio" name="option"> Option-3 
 ```  
-Submit input exp  
+
+Submit input exp:  
 ```
 <form method=post action="statements...">
 <input type="text" style="color: #ffffff;
@@ -65,7 +67,7 @@ Submit input exp
 </form>
 ```   
 - ```<option>``` dropdown option tag is used to select from a drop-down list.  
-Drop-down option exp  
+Drop-down option exp:  
 ```
 <form method=post action="statements..."> 
 <center> Select an option:<select>
@@ -83,20 +85,11 @@ All the learned elements have been tried to be used in different ways.
 ![Image of basic wab page](https://github.com/berceou/Patika-HTML/blob/master/src/lemoncake-webpage-view.png)  
   
   
-    
-      
-        
-          
-          
-          
-          
-
-
-
-
-
+  
+  
+  
 #### Reference Links  
 [W3School](https://www.w3schools.com/html/default.asp)  
 [GeeksforGeeks](https://www.geeksforgeeks.org/most-commonly-used-tags-in-html/)  
-[Patika.dev](https://app.patika.dev/moduller/html)
+[Patika.dev](https://app.patika.dev/moduller/html)  
 [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
