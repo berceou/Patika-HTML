@@ -82,7 +82,6 @@ Drop-down option exp:
 A simple web page was created by using the most commonly HTML elements in the content of the HTML module homework.  
 It has been tried to be done using the semantic structure by HTML5.  
 All the learned elements have been tried to be used in different ways.  
-![Image of basic wab page](https://github.com/berceou/Patika-HTML/blob/master/src/lemoncake-webpage-view.png)  
   
   
   
